@@ -8,7 +8,7 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 
 ## Publications
 
-### 2022  
+## 2022  
 #### OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition   
 **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen*    
 IEEE Robotics and Automation Letters  
@@ -25,7 +25,7 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao
 
 ----
 
-### 2021  
+## 2021  
 #### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
 **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
 2021 IEEE International Conference on Unmanned Systems (ICUS)  
