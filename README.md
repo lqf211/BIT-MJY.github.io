@@ -19,7 +19,7 @@ Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen*
 Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
 [[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
 
-![MutualPoseRec]([/least-github-pages/assets/logo.png](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS/blob/main/img/system_overview.png))
+![MutualPoseRec]([/system_overview_icus2021.png])
 
 
 
