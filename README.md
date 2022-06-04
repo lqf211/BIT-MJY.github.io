@@ -4,7 +4,6 @@
 
 I’m currently a Master student in the Intelligent Vehicle Research Center at Beijing Institute of Technology. I received the B.Eng degree from Beijing Institute of Technology in 2020.  
 
-
 ---
 
 ## Publications
@@ -17,7 +16,7 @@ IEEE Robotics and Automation Letters
 
 <img src="./system_overview_ral2022.png">
 
-----
+---
 
 #### A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles    
 Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao  
@@ -25,7 +24,7 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao
 [[Paper](https://arxiv.org/pdf/2202.11514.pdf)][[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]    
 
 
-----
+---
 
 ## 2021  
 #### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
