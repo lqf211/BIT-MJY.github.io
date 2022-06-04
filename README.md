@@ -15,6 +15,8 @@ IEEE Robotics and Automation Letters
 [[Paper](https://ieeexplore.ieee.org/document/9785497)][[Code](https://github.com/haomo-ai/OverlapTransformer)]    
 <img src="./system_overview_ral2022.png">
 
+----
+
 #### A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles    
 Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao  
 2022 IEEE Intelligent Vehicles Symposium (IV 2022)  
