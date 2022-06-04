@@ -23,7 +23,7 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao
 
 ### 2021  
 #### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
-Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
+**Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
 2021 IEEE International Conference on Unmanned Systems (ICUS)  
 [[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
 ![MutualPoseRec](/system_overview_icus2021.png)
@@ -35,7 +35,7 @@ Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
 
 ### Haomo Dataset
 The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing.   
-[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)  
+[[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)]  
 ![haomo](/haomo_dataset.png)
 
 
