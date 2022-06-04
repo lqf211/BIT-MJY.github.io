@@ -29,7 +29,7 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao
 ## 2021  
 #### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
 **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
-2021 IEEE International Conference on Unmanned Systems (ICUS)  
+2021 IEEE International Conference on Unmanned Systems (Best Paper)  
 [[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
 
 ![MutualPoseRec](/system_overview_icus2021.png)
