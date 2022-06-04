@@ -29,6 +29,8 @@ Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
 ## Dataset
 
 ### Haomo Dataset
+The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing.   
+[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)  
 ![haomo](/haomo_dataset.png)
 
 
