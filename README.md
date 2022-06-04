@@ -11,7 +11,9 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 ### 2022  
 #### OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.  
 Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen*    
-[[Paper](https://ieeexplore.ieee.org/document/9785497)][[Code](https://github.com/haomo-ai/OverlapTransformer)]
+[[Paper](https://ieeexplore.ieee.org/document/9785497)][[Code](https://github.com/haomo-ai/OverlapTransformer)]  
+![OT](/system_overview_ral2022.png)
+
 
 
 ### 2021  
