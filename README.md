@@ -14,6 +14,6 @@ Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen*
 
 ## 2021  
 ### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
-Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
+Junyi Ma, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
 [[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
 
