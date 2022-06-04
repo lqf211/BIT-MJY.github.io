@@ -8,9 +8,6 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 ## 2021 
 
 * OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
-<div align=center>
-<img src="https://github.com/haomo-ai/OverlapTransformer/blob/master/Haomo_Dataset/haomo_dataset.png" width="98%"/>
-</div>  
 
 
 
