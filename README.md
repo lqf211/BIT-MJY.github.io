@@ -6,7 +6,7 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 
 
 
- [![Git](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BIT-MJY)
+ ![Git](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
  link
 
