@@ -13,5 +13,5 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 
 ## 2021  
 ### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
-[[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code]([https://github.com/haomo-ai/OverlapTransformer](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS))]
+[[Paper](https://ieeexplore.ieee.org/document/9641141)][[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
 
