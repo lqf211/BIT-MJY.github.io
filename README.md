@@ -46,6 +46,11 @@ The dataset was collected by a mobile robot built by HAOMO.AI Technology company
 
 ![haomo](/haomo_dataset.png)
 
+### Cues-Poses Dataset
+A toy dataset about mapping multiple cues to mutual poses of robots.  
+[[Description](https://github.com/BIT-MJY/Cues_Poses_Datasets)]  
+
+
 
 ---
 
