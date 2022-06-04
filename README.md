@@ -8,9 +8,6 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 
  [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BIT-MJY)
 
-
- My [GitHub]
-* My [CSDN](https://blog.csdn.net/weixin_44684139?type=blog)
   
 ---
 
