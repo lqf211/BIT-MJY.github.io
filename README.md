@@ -43,5 +43,20 @@ The dataset was collected by a mobile robot built by HAOMO.AI Technology company
 ![haomo](/haomo_dataset.png)
 
 
+---
+
+## Open-source Projects
+
+####  Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]
+####  Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]
+####  Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]
+
+
+
+
+
+
+
+
 
 
