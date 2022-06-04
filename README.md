@@ -4,7 +4,7 @@
 
 I’m currently a Master student in the Intelligent Vehicle Research Center at Beijing Institute of Technology. I received the B.Eng degree from Beijing Institute of Technology in 2020.  
 
-[![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/BIT-MJY)
+[![github]()](https://github.com/BIT-MJY)
 
 
 * My [GitHub](https://github.com/BIT-MJY/)
