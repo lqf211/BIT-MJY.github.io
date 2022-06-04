@@ -3,6 +3,9 @@
 ###  👋  👋  👋
 
 I’m currently a Master student in the Intelligent Vehicle Research Center at Beijing Institute of Technology. I received the B.Eng degree from Beijing Institute of Technology in 2020.  
+
+* My [GitHub](https://github.com/BIT-MJY/)
+* My [CSDN](https://blog.csdn.net/weixin_44684139?type=blog)
   
 ---
 
