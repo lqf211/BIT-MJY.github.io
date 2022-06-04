@@ -5,11 +5,7 @@ I’m currently a Master student in the Intelligent Vehicle Research Center at B
 
 ### Publications
 
-## 2021 
-
-* OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
-
-
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
