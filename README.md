@@ -23,6 +23,8 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao
 [[Paper](https://arxiv.org/pdf/2202.11514.pdf)][[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]    
 
 
+----
+
 ### 2021  
 #### Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems
 **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun  
