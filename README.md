@@ -26,7 +26,7 @@ IEEE Intelligent Vehicles Symposium (IV), 2022
 
 #### MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments
 Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jinyi Xu, Jiahui Xu  
-Unmanned Systems    
+Unmanned Systems (US)    
 [Paper][Code]  
 
 
