@@ -20,7 +20,7 @@ IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Co
 ---
 
 #### A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles    
-Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao  
+Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao*  
 IEEE Intelligent Vehicles Symposium (IV), 2022    
 [[Paper](https://arxiv.org/pdf/2202.11514.pdf)][[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]    
 
