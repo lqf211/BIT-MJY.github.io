@@ -24,6 +24,8 @@ Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao*
 IEEE Intelligent Vehicles Symposium (IV), 2022    
 [[Paper](https://arxiv.org/pdf/2202.11514.pdf)][[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]    
 
+<img src="./xu2022iv.png">
+
 ---
 
 #### MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments
