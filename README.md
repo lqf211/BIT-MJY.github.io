@@ -65,7 +65,7 @@ A toy dataset about mapping multiple cues to mutual poses of robots.
 
 ---
 
-## Open-source Projects
+## Open-Source Projects
 
 ####  Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]
 ####  Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]
